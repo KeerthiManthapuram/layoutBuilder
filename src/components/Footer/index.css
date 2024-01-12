@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  width: 100vw;
+  background-color: #cbd5e1;
+}
+.footer-content {
+  color: #475569;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 25px;
+}

@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.left-nav-bar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  align-self: stretch;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  color: #475569;
+}
+.items-list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  align-items: center;
+}
+.item {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+}
+.content-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px;
+  align-self: stretch;
+}
+.content-para {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+}
+.right-nav-bar-continer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  align-self: stretch;
+}
+.card {
+  border: #475569 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+}

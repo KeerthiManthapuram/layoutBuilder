@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.nav-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  width: 100vw;
+  background-color: #cbd5e1;
+}
+.nav-content {
+  color: #475569;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 25px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.configuration-context-container {
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  width: 100vw;
+  background-color: #475569;
+}
+.layout-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
